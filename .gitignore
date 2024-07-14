@@ -1,0 +1,4 @@
+db.sqlite3
+/craig_list/__pycache__
+/my_app/__pycache__
+/my_app/migrations
